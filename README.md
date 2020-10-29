@@ -4,7 +4,7 @@
 
 设计一个简化版的俄罗斯方块游戏 。游戏窗口大小是20×10的方形棋盘格阵列（如图1左），游戏中出现的方块共有7种（如图右），每种方块的旋转中心由黑点标出 ;
 
-![image-20201029113816123](C:\Users\钟辉\AppData\Roaming\Typora\typora-user-images\image-20201029113816123.png)                               
+![image-20201029113816123](https://github.com/JemmyZhong/-Tetris/blob/main/方块信息.png)                               
 
 
 
